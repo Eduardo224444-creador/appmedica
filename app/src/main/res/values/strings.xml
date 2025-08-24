@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationSalud</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aplicacion de Salud</string>
+    <string name="nav_header_subtitle">Eduardo Cruz</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Datos del paciente</string>
+    <string name="menu_gallery">Peso ideal</string>
+    <string name="menu_slideshow">Paginas</string>
+    <string name="menu_doctores">Doctores</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
